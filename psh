@@ -1,0 +1,8 @@
+git init
+git config --global user.email "shadowstudiosofficiall@gmail.com"
+git config --global user.name "Shadow Studio"
+git add .
+git commit -m "Initial commit for Digital Art project"
+git branch -M main
+git remote add originhttps://github.com/ShadowStudioOfficialRBTC/DAADU
+git push -u origin main
