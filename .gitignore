@@ -1,0 +1,7 @@
+Dataset/
+Images/
+done/
+__pycache__/
+*.pyc
+.streamlit/
+.vscode/
